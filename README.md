@@ -17,10 +17,10 @@
 
 |   |Base | U-Net |	ResNet |
 |---|---|---|---|
-|epoch |	17.000 |	14.000 |	4.000 |
-|val_IoU_animal |	0.789 |	0.808 |	0.883 |
-|val_IoU_background |	0.884 | 0.896 |	0.935 |
-|val_IoU_boundary |	0.476 |	0.493 | 0.577 |
+|epoch |	17 |	14 |	4 |
+|(val) IoU animal |	0.789 |	0.808 |	0.883 |
+|(val) IoU background |	0.884 | 0.896 |	0.935 |
+|(val) IoU boundary |	0.476 |	0.493 | 0.577 |
 
 
 ## Выводы
